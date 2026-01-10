@@ -1137,7 +1137,7 @@ end
 
 
 
-This project is part of a digital design curriculum focusing on serial communication protocols (SPI, I²C, UART) and FPGA implementation. The objectives include:
+This project is part of a digital design curriculum and phoenix association of bits hyd, focusing on serial communication protocols (SPI, I²C, UART) and FPGA implementation. The objectives include:
 
 - Understanding synchronous serial communication fundamentals
 - Implementing FSM-based protocol controllers
